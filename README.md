@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+各位客官们，欢迎来到这儿，很高兴认识你们！Hey there! Welcome here. How are you?
+
+<div align="center" style="display:flex;flex-direction:row;">
+  <img src="https://profile-counter.glitch.me/kokomomo250/count.svg?"  />
+</div>
+
 <!--
 **kokomomo250/kokomomo250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
